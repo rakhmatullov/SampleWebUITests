@@ -8,7 +8,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from core.testcase import TheTestCase
 from core.user_actions import login_correct
 
-NUMBER_OF_ITERATIONS = 10
+NUMBER_OF_ITERATIONS = 100
 
 class MultipleGetPage(TheTestCase):
     def test_100_login_page_open(self):
