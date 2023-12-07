@@ -1,0 +1,5 @@
+[basic]
+url = https://www.saucedemo.com
+login = standard_user
+password = secret_sauce
+wrong_login = error_user
